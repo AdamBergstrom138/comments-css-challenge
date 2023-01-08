@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(228, 33%, 97%)
+}
+
+.comment {
+    margin: 5%;
+    border: solid;
+    border-radius: 5px;
+    background-color: white;
+    font-family: 'Rubik', sans-serif;
+    color: hsl(211, 10%, 45%);
+}
+.profile-pic {
+    margin: 5px;
+}
+.username {
+    font-weight: bold;
+}
+.date {
+    font-family: 'Rubik', sans-serif;
+    color: hsl(211, 10%, 45%);
+}
