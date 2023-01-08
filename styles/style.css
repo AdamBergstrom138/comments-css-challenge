@@ -28,7 +28,7 @@ body {
     font-family: 'Rubik', sans-serif;
     color: hsl(211, 10%, 45%);
     margin-top: -20px;
-    margin-left: 250px;
+    margin-left: 235px;
     margin-right: 50%;
 }
 .votes {
@@ -37,8 +37,8 @@ body {
     color: hsl(238, 40%, 52%);
     background-color: hsl(228, 33%, 97%);
     margin-top: 25px;
-    margin-left: 5px;
-    margin-right: 97%;
+    margin-left: 20px;
+    margin-right: 96%;
     border-radius: 5px;
 }
 .message {
