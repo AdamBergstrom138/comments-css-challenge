@@ -34,7 +34,7 @@ body {
 .votes {
     text-align: center;
     font-weight: bold;
-    color: hsl(212, 24%, 26%);
+    color: hsl(238, 40%, 52%);
     background-color: hsl(228, 33%, 97%);
     margin-top: 25px;
     margin-left: 5px;
@@ -45,4 +45,11 @@ body {
     padding: 2%;
     margin-left: 10%;
     margin-right: 10%;
+}
+.reply-name{
+    color: hsl(238, 40%, 52%);
+    font-weight: bold;
+}
+#reply{
+    margin-left: 20%;
 }
