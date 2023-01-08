@@ -1,9 +1,12 @@
 body {
-    background-color: hsl(228, 33%, 97%)
+    background-color: hsl(228, 33%, 97%);
+
 }
 
 .comment {
-    margin: 5%;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
     border: solid;
     border-radius: 5px;
     background-color: white;
@@ -11,12 +14,35 @@ body {
     color: hsl(211, 10%, 45%);
 }
 .profile-pic {
-    margin: 5px;
+    margin-top: -60px;
+    margin-left: 55px;
+    margin-right: 97%;
 }
 .username {
     font-weight: bold;
+    margin-top: -45px;
+    margin-left: 125px;
+    margin-right: 97%;
 }
 .date {
     font-family: 'Rubik', sans-serif;
     color: hsl(211, 10%, 45%);
+    margin-top: -20px;
+    margin-left: 250px;
+    margin-right: 50%;
+}
+.votes {
+    text-align: center;
+    font-weight: bold;
+    color: hsl(212, 24%, 26%);
+    background-color: hsl(228, 33%, 97%);
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 97%;
+    border-radius: 5px;
+}
+.message {
+    padding: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
